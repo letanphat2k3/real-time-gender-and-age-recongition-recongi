@@ -1,0 +1,181 @@
+Epoch 1/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 261ms/step - age_out_mae: 15.2786 - gender_out_accuracy: 0.5825 - loss: 15.9374Loss did not meet the threshold at epoch 1. Loss: 13.616250991821289
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m306s[0m 293ms/step - age_out_mae: 15.2764 - gender_out_accuracy: 0.5826 - loss: 15.9352 - val_age_out_mae: 9.7901 - val_gender_out_accuracy: 0.8010 - val_loss: 10.2332
+Epoch 2/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 256ms/step - age_out_mae: 9.8280 - gender_out_accuracy: 0.8003 - loss: 10.2529Loss did not meet the threshold at epoch 2. Loss: 9.745134353637695
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m292s[0m 282ms/step - age_out_mae: 9.8276 - gender_out_accuracy: 0.8003 - loss: 10.2525 - val_age_out_mae: 7.8804 - val_gender_out_accuracy: 0.8420 - val_loss: 8.2379
+Epoch 3/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 252ms/step - age_out_mae: 8.3489 - gender_out_accuracy: 0.8431 - loss: 8.6970Loss did not meet the threshold at epoch 3. Loss: 8.457372665405273
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m287s[0m 277ms/step - age_out_mae: 8.3487 - gender_out_accuracy: 0.8431 - loss: 8.6968 - val_age_out_mae: 7.0855 - val_gender_out_accuracy: 0.8570 - val_loss: 7.4124
+Epoch 4/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 256ms/step - age_out_mae: 7.4949 - gender_out_accuracy: 0.8606 - loss: 7.8088Model saved at epoch 4 with loss 7.760397911071777
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m293s[0m 282ms/step - age_out_mae: 7.4948 - gender_out_accuracy: 0.8607 - loss: 7.8087 - val_age_out_mae: 7.7391 - val_gender_out_accuracy: 0.8729 - val_loss: 8.0399
+Epoch 5/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 261ms/step - age_out_mae: 7.0501 - gender_out_accuracy: 0.8749 - loss: 7.3310Model saved at epoch 5 with loss 7.293693542480469
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m298s[0m 287ms/step - age_out_mae: 7.0500 - gender_out_accuracy: 0.8749 - loss: 7.3310 - val_age_out_mae: 6.6540 - val_gender_out_accuracy: 0.8744 - val_loss: 6.9465
+Epoch 6/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 258ms/step - age_out_mae: 6.7722 - gender_out_accuracy: 0.8847 - loss: 7.0405Model saved at epoch 6 with loss 7.031129837036133
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m294s[0m 283ms/step - age_out_mae: 6.7722 - gender_out_accuracy: 0.8847 - loss: 7.0405 - val_age_out_mae: 6.8816 - val_gender_out_accuracy: 0.8870 - val_loss: 7.1467
+Epoch 7/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 270ms/step - age_out_mae: 6.4986 - gender_out_accuracy: 0.8941 - loss: 6.7502Model saved at epoch 7 with loss 6.75042200088501
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m307s[0m 296ms/step - age_out_mae: 6.4986 - gender_out_accuracy: 0.8941 - loss: 6.7502 - val_age_out_mae: 6.5799 - val_gender_out_accuracy: 0.8894 - val_loss: 6.8464
+Epoch 8/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 261ms/step - age_out_mae: 6.3410 - gender_out_accuracy: 0.8965 - loss: 6.5782Model saved at epoch 8 with loss 6.51365327835083
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m298s[0m 288ms/step - age_out_mae: 6.3410 - gender_out_accuracy: 0.8965 - loss: 6.5782 - val_age_out_mae: 6.4888 - val_gender_out_accuracy: 0.8960 - val_loss: 6.7420
+Epoch 9/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 258ms/step - age_out_mae: 6.0644 - gender_out_accuracy: 0.9032 - loss: 6.2902Model saved at epoch 9 with loss 6.321678161621094
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m295s[0m 284ms/step - age_out_mae: 6.0644 - gender_out_accuracy: 0.9032 - loss: 6.2902 - val_age_out_mae: 6.4767 - val_gender_out_accuracy: 0.8931 - val_loss: 6.7353
+Epoch 10/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 256ms/step - age_out_mae: 5.7734 - gender_out_accuracy: 0.9077 - loss: 5.9963Model saved at epoch 10 with loss 6.049778938293457
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m291s[0m 281ms/step - age_out_mae: 5.7734 - gender_out_accuracy: 0.9077 - loss: 5.9963 - val_age_out_mae: 6.1621 - val_gender_out_accuracy: 0.8998 - val_loss: 6.4109
+Epoch 11/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 251ms/step - age_out_mae: 5.6084 - gender_out_accuracy: 0.9127 - loss: 5.8172Model saved at epoch 11 with loss 5.891744136810303
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m287s[0m 277ms/step - age_out_mae: 5.6085 - gender_out_accuracy: 0.9127 - loss: 5.8173 - val_age_out_mae: 6.6369 - val_gender_out_accuracy: 0.8969 - val_loss: 6.8904
+Epoch 12/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 251ms/step - age_out_mae: 5.4047 - gender_out_accuracy: 0.9196 - loss: 5.5984Model saved at epoch 12 with loss 5.687684535980225
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m287s[0m 277ms/step - age_out_mae: 5.4048 - gender_out_accuracy: 0.9196 - loss: 5.5985 - val_age_out_mae: 6.1628 - val_gender_out_accuracy: 0.9003 - val_loss: 6.4105
+Epoch 13/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 257ms/step - age_out_mae: 5.2041 - gender_out_accuracy: 0.9252 - loss: 5.3876Model saved at epoch 13 with loss 5.519231796264648
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m294s[0m 283ms/step - age_out_mae: 5.2043 - gender_out_accuracy: 0.9252 - loss: 5.3877 - val_age_out_mae: 6.1087 - val_gender_out_accuracy: 0.9016 - val_loss: 6.3575
+Epoch 14/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 252ms/step - age_out_mae: 5.1172 - gender_out_accuracy: 0.9245 - loss: 5.2950Model saved at epoch 14 with loss 5.3556952476501465
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m288s[0m 277ms/step - age_out_mae: 5.1172 - gender_out_accuracy: 0.9245 - loss: 5.2950 - val_age_out_mae: 6.2037 - val_gender_out_accuracy: 0.8988 - val_loss: 6.4674
+Epoch 15/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 255ms/step - age_out_mae: 4.9954 - gender_out_accuracy: 0.9305 - loss: 5.1596Model saved at epoch 15 with loss 5.214269161224365
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m292s[0m 282ms/step - age_out_mae: 4.9955 - gender_out_accuracy: 0.9305 - loss: 5.1596 - val_age_out_mae: 6.3337 - val_gender_out_accuracy: 0.8983 - val_loss: 6.6035
+Epoch 16/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 253ms/step - age_out_mae: 4.8735 - gender_out_accuracy: 0.9328 - loss: 5.0321Model saved at epoch 16 with loss 5.037887096405029
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m290s[0m 280ms/step - age_out_mae: 4.8735 - gender_out_accuracy: 0.9328 - loss: 5.0321 - val_age_out_mae: 6.3125 - val_gender_out_accuracy: 0.8960 - val_loss: 6.5814
+Epoch 17/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 255ms/step - age_out_mae: 4.7436 - gender_out_accuracy: 0.9372 - loss: 4.8908Model saved at epoch 17 with loss 4.936784744262695
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m292s[0m 282ms/step - age_out_mae: 4.7436 - gender_out_accuracy: 0.9372 - loss: 4.8908 - val_age_out_mae: 6.1334 - val_gender_out_accuracy: 0.8980 - val_loss: 6.4234
+Epoch 18/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 253ms/step - age_out_mae: 4.5738 - gender_out_accuracy: 0.9412 - loss: 4.7173Model saved at epoch 18 with loss 4.810713768005371
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m289s[0m 279ms/step - age_out_mae: 4.5739 - gender_out_accuracy: 0.9412 - loss: 4.7174 - val_age_out_mae: 6.0876 - val_gender_out_accuracy: 0.8994 - val_loss: 6.3655
+Epoch 19/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 255ms/step - age_out_mae: 4.4834 - gender_out_accuracy: 0.9431 - loss: 4.6184Model saved at epoch 19 with loss 4.654499053955078
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m292s[0m 281ms/step - age_out_mae: 4.4835 - gender_out_accuracy: 0.9431 - loss: 4.6184 - val_age_out_mae: 6.2390 - val_gender_out_accuracy: 0.8998 - val_loss: 6.5134
+Epoch 20/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 249ms/step - age_out_mae: 4.4004 - gender_out_accuracy: 0.9459 - loss: 4.5291Model saved at epoch 20 with loss 4.570137977600098
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m287s[0m 277ms/step - age_out_mae: 4.4004 - gender_out_accuracy: 0.9459 - loss: 4.5291 - val_age_out_mae: 6.2964 - val_gender_out_accuracy: 0.8973 - val_loss: 6.5963
+Epoch 21/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 254ms/step - age_out_mae: 4.3319 - gender_out_accuracy: 0.9505 - loss: 4.4534Model saved at epoch 21 with loss 4.483260631561279
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m290s[0m 280ms/step - age_out_mae: 4.3319 - gender_out_accuracy: 0.9505 - loss: 4.4534 - val_age_out_mae: 6.1205 - val_gender_out_accuracy: 0.8986 - val_loss: 6.4070
+Epoch 22/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 255ms/step - age_out_mae: 4.2192 - gender_out_accuracy: 0.9532 - loss: 4.3290Model saved at epoch 22 with loss 4.3618693351745605
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m291s[0m 281ms/step - age_out_mae: 4.2192 - gender_out_accuracy: 0.9532 - loss: 4.3291 - val_age_out_mae: 6.1480 - val_gender_out_accuracy: 0.8984 - val_loss: 6.4684
+Epoch 23/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 256ms/step - age_out_mae: 4.1676 - gender_out_accuracy: 0.9530 - loss: 4.2760Model saved at epoch 23 with loss 4.305426120758057
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m293s[0m 282ms/step - age_out_mae: 4.1677 - gender_out_accuracy: 0.9530 - loss: 4.2760 - val_age_out_mae: 6.0530 - val_gender_out_accuracy: 0.8975 - val_loss: 6.3512
+Epoch 24/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 249ms/step - age_out_mae: 4.1192 - gender_out_accuracy: 0.9556 - loss: 4.2248Model saved at epoch 24 with loss 4.245051860809326
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m285s[0m 275ms/step - age_out_mae: 4.1193 - gender_out_accuracy: 0.9556 - loss: 4.2248 - val_age_out_mae: 6.1038 - val_gender_out_accuracy: 0.8990 - val_loss: 6.4524
+Epoch 25/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 259ms/step - age_out_mae: 4.0519 - gender_out_accuracy: 0.9569 - loss: 4.1486Model saved at epoch 25 with loss 4.19420051574707
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m296s[0m 285ms/step - age_out_mae: 4.0519 - gender_out_accuracy: 0.9569 - loss: 4.1486 - val_age_out_mae: 6.2891 - val_gender_out_accuracy: 0.8991 - val_loss: 6.6178
+Epoch 26/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 251ms/step - age_out_mae: 4.0003 - gender_out_accuracy: 0.9572 - loss: 4.1016Model saved at epoch 26 with loss 4.139505863189697
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m287s[0m 276ms/step - age_out_mae: 4.0004 - gender_out_accuracy: 0.9572 - loss: 4.1016 - val_age_out_mae: 6.0575 - val_gender_out_accuracy: 0.9001 - val_loss: 6.3828
+Epoch 27/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 254ms/step - age_out_mae: 3.8710 - gender_out_accuracy: 0.9617 - loss: 3.9587Model saved at epoch 27 with loss 3.9755115509033203
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m289s[0m 279ms/step - age_out_mae: 3.8710 - gender_out_accuracy: 0.9617 - loss: 3.9587 - val_age_out_mae: 6.1045 - val_gender_out_accuracy: 0.9005 - val_loss: 6.4302
+Epoch 28/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m295s[0m 284ms/step - age_out_mae: 3.9102 - gender_out_accuracy: 0.9620 - loss: 3.9974 - val_age_out_mae: 6.1495 - val_gender_out_accuracy: 0.9011 - val_loss: 6.4945
+Epoch 29/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m286s[0m 276ms/step - age_out_mae: 3.8837 - gender_out_accuracy: 0.9593 - loss: 3.9749 - val_age_out_mae: 6.1231 - val_gender_out_accuracy: 0.8967 - val_loss: 6.5241
+Epoch 30/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 257ms/step - age_out_mae: 3.7617 - gender_out_accuracy: 0.9605 - loss: 3.8494Model saved at epoch 30 with loss 3.8683536052703857
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m293s[0m 283ms/step - age_out_mae: 3.7617 - gender_out_accuracy: 0.9605 - loss: 3.8494 - val_age_out_mae: 6.1172 - val_gender_out_accuracy: 0.8960 - val_loss: 6.4738
+Epoch 31/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 259ms/step - age_out_mae: 3.7272 - gender_out_accuracy: 0.9654 - loss: 3.8045Model saved at epoch 31 with loss 3.841200828552246
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m296s[0m 285ms/step - age_out_mae: 3.7273 - gender_out_accuracy: 0.9654 - loss: 3.8045 - val_age_out_mae: 6.1701 - val_gender_out_accuracy: 0.8986 - val_loss: 6.6090
+Epoch 32/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 254ms/step - age_out_mae: 3.7264 - gender_out_accuracy: 0.9670 - loss: 3.8021Model saved at epoch 32 with loss 3.8234832286834717
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m289s[0m 279ms/step - age_out_mae: 3.7264 - gender_out_accuracy: 0.9670 - loss: 3.8021 - val_age_out_mae: 6.1387 - val_gender_out_accuracy: 0.8993 - val_loss: 6.5030
+Epoch 33/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 253ms/step - age_out_mae: 3.6395 - gender_out_accuracy: 0.9665 - loss: 3.7152Model saved at epoch 33 with loss 3.752495050430298
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m290s[0m 280ms/step - age_out_mae: 3.6396 - gender_out_accuracy: 0.9665 - loss: 3.7152 - val_age_out_mae: 6.1059 - val_gender_out_accuracy: 0.8982 - val_loss: 6.5811
+Epoch 34/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 250ms/step - age_out_mae: 3.6307 - gender_out_accuracy: 0.9674 - loss: 3.7020Model saved at epoch 34 with loss 3.725553512573242
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m286s[0m 276ms/step - age_out_mae: 3.6307 - gender_out_accuracy: 0.9674 - loss: 3.7020 - val_age_out_mae: 6.0940 - val_gender_out_accuracy: 0.9010 - val_loss: 6.5090
+Epoch 35/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 251ms/step - age_out_mae: 3.5866 - gender_out_accuracy: 0.9642 - loss: 3.6627Model saved at epoch 35 with loss 3.686174154281616
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m288s[0m 277ms/step - age_out_mae: 3.5866 - gender_out_accuracy: 0.9642 - loss: 3.6627 - val_age_out_mae: 6.1064 - val_gender_out_accuracy: 0.9003 - val_loss: 6.5277
+Epoch 36/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 252ms/step - age_out_mae: 3.5822 - gender_out_accuracy: 0.9700 - loss: 3.6511Model saved at epoch 36 with loss 3.647728204727173
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m288s[0m 278ms/step - age_out_mae: 3.5822 - gender_out_accuracy: 0.9700 - loss: 3.6511 - val_age_out_mae: 6.1611 - val_gender_out_accuracy: 0.9041 - val_loss: 6.6263
+Epoch 37/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 251ms/step - age_out_mae: 3.4713 - gender_out_accuracy: 0.9694 - loss: 3.5371Model saved at epoch 37 with loss 3.5881567001342773
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m287s[0m 277ms/step - age_out_mae: 3.4713 - gender_out_accuracy: 0.9693 - loss: 3.5371 - val_age_out_mae: 6.1226 - val_gender_out_accuracy: 0.9037 - val_loss: 6.6066
+Epoch 38/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m287s[0m 277ms/step - age_out_mae: 3.5119 - gender_out_accuracy: 0.9689 - loss: 3.5800 - val_age_out_mae: 6.1497 - val_gender_out_accuracy: 0.8977 - val_loss: 6.6733
+Epoch 39/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 256ms/step - age_out_mae: 3.4221 - gender_out_accuracy: 0.9664 - loss: 3.4977Model saved at epoch 39 with loss 3.5586040019989014
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m292s[0m 281ms/step - age_out_mae: 3.4222 - gender_out_accuracy: 0.9664 - loss: 3.4977 - val_age_out_mae: 6.1620 - val_gender_out_accuracy: 0.9024 - val_loss: 6.5990
+Epoch 40/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 252ms/step - age_out_mae: 3.4135 - gender_out_accuracy: 0.9682 - loss: 3.4806Model saved at epoch 40 with loss 3.5490567684173584
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m289s[0m 278ms/step - age_out_mae: 3.4136 - gender_out_accuracy: 0.9682 - loss: 3.4806 - val_age_out_mae: 6.1472 - val_gender_out_accuracy: 0.9022 - val_loss: 6.5762
+Epoch 41/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 252ms/step - age_out_mae: 3.4418 - gender_out_accuracy: 0.9698 - loss: 3.5058Model saved at epoch 41 with loss 3.5244863033294678
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m290s[0m 279ms/step - age_out_mae: 3.4418 - gender_out_accuracy: 0.9698 - loss: 3.5058 - val_age_out_mae: 6.3461 - val_gender_out_accuracy: 0.8990 - val_loss: 6.8520
+Epoch 42/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 252ms/step - age_out_mae: 3.3892 - gender_out_accuracy: 0.9700 - loss: 3.4580Model saved at epoch 42 with loss 3.4972422122955322
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m288s[0m 278ms/step - age_out_mae: 3.3892 - gender_out_accuracy: 0.9700 - loss: 3.4580 - val_age_out_mae: 6.2112 - val_gender_out_accuracy: 0.8993 - val_loss: 6.7208
+Epoch 43/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 249ms/step - age_out_mae: 3.3474 - gender_out_accuracy: 0.9709 - loss: 3.4130Model saved at epoch 43 with loss 3.476398229598999
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m285s[0m 274ms/step - age_out_mae: 3.3475 - gender_out_accuracy: 0.9709 - loss: 3.4131 - val_age_out_mae: 6.3060 - val_gender_out_accuracy: 0.9014 - val_loss: 6.8026
+Epoch 44/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 255ms/step - age_out_mae: 3.3574 - gender_out_accuracy: 0.9732 - loss: 3.4197Model saved at epoch 44 with loss 3.4230291843414307
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m290s[0m 280ms/step - age_out_mae: 3.3574 - gender_out_accuracy: 0.9732 - loss: 3.4197 - val_age_out_mae: 6.2390 - val_gender_out_accuracy: 0.9004 - val_loss: 6.7092
+Epoch 45/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 253ms/step - age_out_mae: 3.3102 - gender_out_accuracy: 0.9722 - loss: 3.3710Model saved at epoch 45 with loss 3.4074087142944336
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m288s[0m 278ms/step - age_out_mae: 3.3103 - gender_out_accuracy: 0.9722 - loss: 3.3710 - val_age_out_mae: 6.1559 - val_gender_out_accuracy: 0.9008 - val_loss: 6.5899
+Epoch 46/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m289s[0m 279ms/step - age_out_mae: 3.3268 - gender_out_accuracy: 0.9727 - loss: 3.3864 - val_age_out_mae: 6.1103 - val_gender_out_accuracy: 0.9017 - val_loss: 6.5765
+Epoch 47/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m283s[0m 273ms/step - age_out_mae: 3.3529 - gender_out_accuracy: 0.9730 - loss: 3.4167 - val_age_out_mae: 6.1241 - val_gender_out_accuracy: 0.9017 - val_loss: 6.6001
+Epoch 48/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 251ms/step - age_out_mae: 3.2640 - gender_out_accuracy: 0.9755 - loss: 3.3208Model saved at epoch 48 with loss 3.3413467407226562
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m287s[0m 277ms/step - age_out_mae: 3.2641 - gender_out_accuracy: 0.9755 - loss: 3.3208 - val_age_out_mae: 6.1847 - val_gender_out_accuracy: 0.9015 - val_loss: 6.6933
+Epoch 49/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m287s[0m 277ms/step - age_out_mae: 3.2548 - gender_out_accuracy: 0.9747 - loss: 3.3104 - val_age_out_mae: 6.1505 - val_gender_out_accuracy: 0.8978 - val_loss: 6.7226
+Epoch 50/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 250ms/step - age_out_mae: 3.2866 - gender_out_accuracy: 0.9717 - loss: 3.3468Model saved at epoch 50 with loss 3.333974838256836
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m285s[0m 275ms/step - age_out_mae: 3.2866 - gender_out_accuracy: 0.9717 - loss: 3.3467 - val_age_out_mae: 6.3609 - val_gender_out_accuracy: 0.8982 - val_loss: 6.9287
+Epoch 51/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 250ms/step - age_out_mae: 3.2397 - gender_out_accuracy: 0.9744 - loss: 3.2965Model saved at epoch 51 with loss 3.3001973628997803
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m285s[0m 275ms/step - age_out_mae: 3.2397 - gender_out_accuracy: 0.9744 - loss: 3.2966 - val_age_out_mae: 6.1282 - val_gender_out_accuracy: 0.8991 - val_loss: 6.6788
+Epoch 52/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m284s[0m 274ms/step - age_out_mae: 3.2902 - gender_out_accuracy: 0.9743 - loss: 3.3479 - val_age_out_mae: 6.1335 - val_gender_out_accuracy: 0.8988 - val_loss: 6.6177
+Epoch 53/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 248ms/step - age_out_mae: 3.2277 - gender_out_accuracy: 0.9740 - loss: 3.2825Model saved at epoch 53 with loss 3.2771289348602295
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m283s[0m 273ms/step - age_out_mae: 3.2276 - gender_out_accuracy: 0.9740 - loss: 3.2825 - val_age_out_mae: 6.1136 - val_gender_out_accuracy: 0.9001 - val_loss: 6.6613
+Epoch 54/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 255ms/step - age_out_mae: 3.2212 - gender_out_accuracy: 0.9756 - loss: 3.2745Model saved at epoch 54 with loss 3.263383388519287
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m291s[0m 281ms/step - age_out_mae: 3.2211 - gender_out_accuracy: 0.9756 - loss: 3.2745 - val_age_out_mae: 6.1184 - val_gender_out_accuracy: 0.9017 - val_loss: 6.5793
+Epoch 55/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 248ms/step - age_out_mae: 3.1609 - gender_out_accuracy: 0.9773 - loss: 3.2133Model saved at epoch 55 with loss 3.240145683288574
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m284s[0m 274ms/step - age_out_mae: 3.1610 - gender_out_accuracy: 0.9773 - loss: 3.2134 - val_age_out_mae: 6.0926 - val_gender_out_accuracy: 0.9018 - val_loss: 6.6058
+Epoch 56/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m290s[0m 280ms/step - age_out_mae: 3.1808 - gender_out_accuracy: 0.9785 - loss: 3.2302 - val_age_out_mae: 6.2180 - val_gender_out_accuracy: 0.9033 - val_loss: 6.7489
+Epoch 57/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m292s[0m 281ms/step - age_out_mae: 3.2056 - gender_out_accuracy: 0.9769 - loss: 3.2556 - val_age_out_mae: 6.3018 - val_gender_out_accuracy: 0.9007 - val_loss: 6.8259
+Epoch 58/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 250ms/step - age_out_mae: 3.1483 - gender_out_accuracy: 0.9782 - loss: 3.1971Model saved at epoch 58 with loss 3.2017822265625
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m286s[0m 276ms/step - age_out_mae: 3.1483 - gender_out_accuracy: 0.9782 - loss: 3.1971 - val_age_out_mae: 6.1666 - val_gender_out_accuracy: 0.9005 - val_loss: 6.7589
+Epoch 59/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 257ms/step - age_out_mae: 3.1377 - gender_out_accuracy: 0.9787 - loss: 3.1863Model saved at epoch 59 with loss 3.1984989643096924
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m294s[0m 284ms/step - age_out_mae: 3.1377 - gender_out_accuracy: 0.9787 - loss: 3.1863 - val_age_out_mae: 6.1733 - val_gender_out_accuracy: 0.8966 - val_loss: 6.7004
+Epoch 60/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m293s[0m 282ms/step - age_out_mae: 3.2147 - gender_out_accuracy: 0.9788 - loss: 3.2643 - val_age_out_mae: 6.1226 - val_gender_out_accuracy: 0.9006 - val_loss: 6.6712
+Epoch 61/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 252ms/step - age_out_mae: 3.0615 - gender_out_accuracy: 0.9792 - loss: 3.1084Model saved at epoch 61 with loss 3.1380984783172607
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m290s[0m 279ms/step - age_out_mae: 3.0616 - gender_out_accuracy: 0.9792 - loss: 3.1084 - val_age_out_mae: 6.1027 - val_gender_out_accuracy: 0.8998 - val_loss: 6.7531
+Epoch 62/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m296s[0m 286ms/step - age_out_mae: 3.1106 - gender_out_accuracy: 0.9780 - loss: 3.1582 - val_age_out_mae: 6.1960 - val_gender_out_accuracy: 0.9006 - val_loss: 6.7563
+Epoch 63/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m301s[0m 290ms/step - age_out_mae: 3.1457 - gender_out_accuracy: 0.9790 - loss: 3.1920 - val_age_out_mae: 6.1601 - val_gender_out_accuracy: 0.8997 - val_loss: 6.8214
+Epoch 64/80
+[1m1037/1037[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m287s[0m 277ms/step - age_out_mae: 3.0753 - gender_out_accuracy: 0.9795 - loss: 3.1236 - val_age_out_mae: 6.1880 - val_gender_out_accuracy: 0.8961 - val_loss: 6.7320
+Epoch 65/80
+[1m  67/1037[0m [32m━[0m[37m━━━━━━━━━━━━━━━━━━━[0m [1m4:13[0m 261ms/step - age_out_mae: 3.0975 - gender_out_accuracy: 0.9852 - loss: 3.1321

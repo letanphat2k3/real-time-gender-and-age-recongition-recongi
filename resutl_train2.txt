@@ -1,0 +1,100 @@
+Epoch 1/50
+593/593 [==============================] - 28s 23ms/step - loss: 16.2018 - gender_out_loss: 0.7000 - age_out_loss: 15.5017 - gender_out_accuracy: 0.5401 - age_out_accuracy: 0.0475 - val_loss: 13.3123 - val_gender_out_loss: 0.5632 - val_age_out_loss: 12.7491 - val_gender_out_accuracy: 0.7176 - val_age_out_accuracy: 0.0460
+Epoch 2/50
+593/593 [==============================] - 13s 22ms/step - loss: 11.9466 - gender_out_loss: 0.4984 - age_out_loss: 11.4482 - gender_out_accuracy: 0.7584 - age_out_accuracy: 0.0266 - val_loss: 10.1103 - val_gender_out_loss: 0.4207 - val_age_out_loss: 9.6896 - val_gender_out_accuracy: 0.8140 - val_age_out_accuracy: 0.0158
+Epoch 3/50
+593/593 [==============================] - 12s 20ms/step - loss: 10.1338 - gender_out_loss: 0.4126 - age_out_loss: 9.7212 - gender_out_accuracy: 0.8093 - age_out_accuracy: 0.0110 - val_loss: 9.1359 - val_gender_out_loss: 0.3533 - val_age_out_loss: 8.7826 - val_gender_out_accuracy: 0.8420 - val_age_out_accuracy: 0.0084
+Epoch 4/50
+593/593 [==============================] - 12s 20ms/step - loss: 8.9647 - gender_out_loss: 0.3608 - age_out_loss: 8.6038 - gender_out_accuracy: 0.8366 - age_out_accuracy: 0.0074 - val_loss: 8.1027 - val_gender_out_loss: 0.3237 - val_age_out_loss: 7.7790 - val_gender_out_accuracy: 0.8532 - val_age_out_accuracy: 0.0059
+Epoch 5/50
+593/593 [==============================] - 12s 21ms/step - loss: 8.4292 - gender_out_loss: 0.3226 - age_out_loss: 8.1066 - gender_out_accuracy: 0.8568 - age_out_accuracy: 0.0072 - val_loss: 8.8204 - val_gender_out_loss: 0.2977 - val_age_out_loss: 8.5227 - val_gender_out_accuracy: 0.8659 - val_age_out_accuracy: 0.0044
+Epoch 6/50
+593/593 [==============================] - 12s 20ms/step - loss: 7.8496 - gender_out_loss: 0.3009 - age_out_loss: 7.5487 - gender_out_accuracy: 0.8637 - age_out_accuracy: 0.0061 - val_loss: 7.9645 - val_gender_out_loss: 0.2964 - val_age_out_loss: 7.6680 - val_gender_out_accuracy: 0.8712 - val_age_out_accuracy: 0.0089
+Epoch 7/50
+593/593 [==============================] - 12s 21ms/step - loss: 7.4964 - gender_out_loss: 0.2854 - age_out_loss: 7.2110 - gender_out_accuracy: 0.8728 - age_out_accuracy: 0.0060 - val_loss: 7.4499 - val_gender_out_loss: 0.2954 - val_age_out_loss: 7.1545 - val_gender_out_accuracy: 0.8680 - val_age_out_accuracy: 0.0072
+Epoch 8/50
+593/593 [==============================] - 12s 21ms/step - loss: 7.2341 - gender_out_loss: 0.2711 - age_out_loss: 6.9630 - gender_out_accuracy: 0.8799 - age_out_accuracy: 0.0054 - val_loss: 7.1768 - val_gender_out_loss: 0.2789 - val_age_out_loss: 6.8980 - val_gender_out_accuracy: 0.8798 - val_age_out_accuracy: 0.0046
+Epoch 9/50
+593/593 [==============================] - 13s 21ms/step - loss: 7.0831 - gender_out_loss: 0.2551 - age_out_loss: 6.8280 - gender_out_accuracy: 0.8896 - age_out_accuracy: 0.0046 - val_loss: 7.1657 - val_gender_out_loss: 0.2809 - val_age_out_loss: 6.8849 - val_gender_out_accuracy: 0.8752 - val_age_out_accuracy: 0.0055
+Epoch 10/50
+593/593 [==============================] - 12s 21ms/step - loss: 6.6693 - gender_out_loss: 0.2458 - age_out_loss: 6.4236 - gender_out_accuracy: 0.8931 - age_out_accuracy: 0.0042 - val_loss: 7.2960 - val_gender_out_loss: 0.2615 - val_age_out_loss: 7.0344 - val_gender_out_accuracy: 0.8859 - val_age_out_accuracy: 0.0053
+Epoch 11/50
+593/593 [==============================] - 12s 21ms/step - loss: 6.5259 - gender_out_loss: 0.2331 - age_out_loss: 6.2928 - gender_out_accuracy: 0.8942 - age_out_accuracy: 0.0035 - val_loss: 6.9591 - val_gender_out_loss: 0.2631 - val_age_out_loss: 6.6960 - val_gender_out_accuracy: 0.8880 - val_age_out_accuracy: 0.0059
+Epoch 12/50
+593/593 [==============================] - 12s 21ms/step - loss: 6.2547 - gender_out_loss: 0.2212 - age_out_loss: 6.0336 - gender_out_accuracy: 0.9027 - age_out_accuracy: 0.0034 - val_loss: 7.0566 - val_gender_out_loss: 0.2581 - val_age_out_loss: 6.7985 - val_gender_out_accuracy: 0.8891 - val_age_out_accuracy: 0.0025
+Epoch 13/50
+593/593 [==============================] - 12s 20ms/step - loss: 6.1201 - gender_out_loss: 0.2089 - age_out_loss: 5.9112 - gender_out_accuracy: 0.9093 - age_out_accuracy: 0.0031 - val_loss: 6.7759 - val_gender_out_loss: 0.2873 - val_age_out_loss: 6.4887 - val_gender_out_accuracy: 0.8806 - val_age_out_accuracy: 0.0030
+Epoch 14/50
+593/593 [==============================] - 12s 21ms/step - loss: 5.8968 - gender_out_loss: 0.1973 - age_out_loss: 5.6996 - gender_out_accuracy: 0.9146 - age_out_accuracy: 0.0034 - val_loss: 6.9679 - val_gender_out_loss: 0.2606 - val_age_out_loss: 6.7072 - val_gender_out_accuracy: 0.8906 - val_age_out_accuracy: 0.0044
+Epoch 15/50
+593/593 [==============================] - 12s 20ms/step - loss: 5.7111 - gender_out_loss: 0.1861 - age_out_loss: 5.5251 - gender_out_accuracy: 0.9206 - age_out_accuracy: 0.0028 - val_loss: 6.8177 - val_gender_out_loss: 0.2712 - val_age_out_loss: 6.5466 - val_gender_out_accuracy: 0.8868 - val_age_out_accuracy: 0.0032
+Epoch 16/50
+593/593 [==============================] - 14s 23ms/step - loss: 5.5560 - gender_out_loss: 0.1794 - age_out_loss: 5.3766 - gender_out_accuracy: 0.9241 - age_out_accuracy: 0.0029 - val_loss: 6.8915 - val_gender_out_loss: 0.2870 - val_age_out_loss: 6.6045 - val_gender_out_accuracy: 0.8832 - val_age_out_accuracy: 0.0040
+Epoch 17/50
+593/593 [==============================] - 12s 20ms/step - loss: 5.3471 - gender_out_loss: 0.1700 - age_out_loss: 5.1771 - gender_out_accuracy: 0.9266 - age_out_accuracy: 0.0029 - val_loss: 6.9554 - val_gender_out_loss: 0.2836 - val_age_out_loss: 6.6718 - val_gender_out_accuracy: 0.8884 - val_age_out_accuracy: 0.0051
+Epoch 18/50
+593/593 [==============================] - 12s 21ms/step - loss: 5.2204 - gender_out_loss: 0.1565 - age_out_loss: 5.0639 - gender_out_accuracy: 0.9330 - age_out_accuracy: 0.0026 - val_loss: 6.7596 - val_gender_out_loss: 0.2945 - val_age_out_loss: 6.4651 - val_gender_out_accuracy: 0.8878 - val_age_out_accuracy: 0.0040
+Epoch 19/50
+593/593 [==============================] - 12s 21ms/step - loss: 5.0153 - gender_out_loss: 0.1441 - age_out_loss: 4.8712 - gender_out_accuracy: 0.9412 - age_out_accuracy: 0.0025 - val_loss: 6.7485 - val_gender_out_loss: 0.3039 - val_age_out_loss: 6.4446 - val_gender_out_accuracy: 0.8842 - val_age_out_accuracy: 0.0032
+Epoch 20/50
+593/593 [==============================] - 12s 20ms/step - loss: 4.9328 - gender_out_loss: 0.1405 - age_out_loss: 4.7923 - gender_out_accuracy: 0.9410 - age_out_accuracy: 0.0027 - val_loss: 6.7404 - val_gender_out_loss: 0.2867 - val_age_out_loss: 6.4537 - val_gender_out_accuracy: 0.8880 - val_age_out_accuracy: 0.0025
+Epoch 21/50
+593/593 [==============================] - 12s 21ms/step - loss: 4.8404 - gender_out_loss: 0.1242 - age_out_loss: 4.7162 - gender_out_accuracy: 0.9479 - age_out_accuracy: 0.0027 - val_loss: 6.7299 - val_gender_out_loss: 0.3014 - val_age_out_loss: 6.4285 - val_gender_out_accuracy: 0.8897 - val_age_out_accuracy: 0.0023
+Epoch 22/50
+593/593 [==============================] - 12s 20ms/step - loss: 4.7127 - gender_out_loss: 0.1167 - age_out_loss: 4.5961 - gender_out_accuracy: 0.9497 - age_out_accuracy: 0.0024 - val_loss: 6.9543 - val_gender_out_loss: 0.3418 - val_age_out_loss: 6.6126 - val_gender_out_accuracy: 0.8948 - val_age_out_accuracy: 0.0027
+Epoch 23/50
+593/593 [==============================] - 12s 20ms/step - loss: 4.5713 - gender_out_loss: 0.1135 - age_out_loss: 4.4578 - gender_out_accuracy: 0.9509 - age_out_accuracy: 0.0022 - val_loss: 7.0118 - val_gender_out_loss: 0.3286 - val_age_out_loss: 6.6831 - val_gender_out_accuracy: 0.8929 - val_age_out_accuracy: 0.0023
+Epoch 24/50
+593/593 [==============================] - 12s 20ms/step - loss: 4.4991 - gender_out_loss: 0.1077 - age_out_loss: 4.3914 - gender_out_accuracy: 0.9547 - age_out_accuracy: 0.0018 - val_loss: 6.8410 - val_gender_out_loss: 0.3394 - val_age_out_loss: 6.5016 - val_gender_out_accuracy: 0.8943 - val_age_out_accuracy: 0.0023
+Epoch 25/50
+593/593 [==============================] - 12s 20ms/step - loss: 4.4577 - gender_out_loss: 0.1039 - age_out_loss: 4.3538 - gender_out_accuracy: 0.9569 - age_out_accuracy: 0.0023 - val_loss: 6.9515 - val_gender_out_loss: 0.3426 - val_age_out_loss: 6.6089 - val_gender_out_accuracy: 0.8922 - val_age_out_accuracy: 0.0027
+Epoch 26/50
+593/593 [==============================] - 12s 20ms/step - loss: 4.3694 - gender_out_loss: 0.0914 - age_out_loss: 4.2780 - gender_out_accuracy: 0.9624 - age_out_accuracy: 0.0021 - val_loss: 6.8855 - val_gender_out_loss: 0.3424 - val_age_out_loss: 6.5431 - val_gender_out_accuracy: 0.8920 - val_age_out_accuracy: 0.0030
+Epoch 27/50
+593/593 [==============================] - 12s 21ms/step - loss: 4.2467 - gender_out_loss: 0.0870 - age_out_loss: 4.1597 - gender_out_accuracy: 0.9651 - age_out_accuracy: 0.0019 - val_loss: 7.0225 - val_gender_out_loss: 0.3729 - val_age_out_loss: 6.6496 - val_gender_out_accuracy: 0.8918 - val_age_out_accuracy: 0.0023
+Epoch 28/50
+593/593 [==============================] - 12s 20ms/step - loss: 4.1864 - gender_out_loss: 0.0877 - age_out_loss: 4.0987 - gender_out_accuracy: 0.9636 - age_out_accuracy: 0.0026 - val_loss: 6.9908 - val_gender_out_loss: 0.3789 - val_age_out_loss: 6.6120 - val_gender_out_accuracy: 0.8891 - val_age_out_accuracy: 0.0034
+Epoch 29/50
+593/593 [==============================] - 12s 20ms/step - loss: 4.1415 - gender_out_loss: 0.0796 - age_out_loss: 4.0620 - gender_out_accuracy: 0.9656 - age_out_accuracy: 0.0020 - val_loss: 7.4253 - val_gender_out_loss: 0.4688 - val_age_out_loss: 6.9565 - val_gender_out_accuracy: 0.8760 - val_age_out_accuracy: 0.0019
+Epoch 30/50
+593/593 [==============================] - 12s 20ms/step - loss: 4.0884 - gender_out_loss: 0.0759 - age_out_loss: 4.0125 - gender_out_accuracy: 0.9683 - age_out_accuracy: 0.0023 - val_loss: 7.0002 - val_gender_out_loss: 0.4123 - val_age_out_loss: 6.5879 - val_gender_out_accuracy: 0.8903 - val_age_out_accuracy: 0.0030
+Epoch 31/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.9947 - gender_out_loss: 0.0713 - age_out_loss: 3.9234 - gender_out_accuracy: 0.9698 - age_out_accuracy: 0.0024 - val_loss: 7.0222 - val_gender_out_loss: 0.4750 - val_age_out_loss: 6.5473 - val_gender_out_accuracy: 0.8906 - val_age_out_accuracy: 0.0040
+Epoch 32/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.9303 - gender_out_loss: 0.0705 - age_out_loss: 3.8598 - gender_out_accuracy: 0.9705 - age_out_accuracy: 0.0023 - val_loss: 7.0381 - val_gender_out_loss: 0.5241 - val_age_out_loss: 6.5140 - val_gender_out_accuracy: 0.8804 - val_age_out_accuracy: 0.0034
+Epoch 33/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.9169 - gender_out_loss: 0.0694 - age_out_loss: 3.8475 - gender_out_accuracy: 0.9706 - age_out_accuracy: 0.0029 - val_loss: 7.0131 - val_gender_out_loss: 0.4597 - val_age_out_loss: 6.5534 - val_gender_out_accuracy: 0.8906 - val_age_out_accuracy: 0.0030
+Epoch 34/50
+593/593 [==============================] - 12s 21ms/step - loss: 3.8335 - gender_out_loss: 0.0663 - age_out_loss: 3.7672 - gender_out_accuracy: 0.9714 - age_out_accuracy: 0.0028 - val_loss: 7.1798 - val_gender_out_loss: 0.4609 - val_age_out_loss: 6.7189 - val_gender_out_accuracy: 0.8870 - val_age_out_accuracy: 0.0027
+Epoch 35/50
+593/593 [==============================] - 12s 21ms/step - loss: 3.7943 - gender_out_loss: 0.0686 - age_out_loss: 3.7257 - gender_out_accuracy: 0.9700 - age_out_accuracy: 0.0023 - val_loss: 7.0503 - val_gender_out_loss: 0.4845 - val_age_out_loss: 6.5658 - val_gender_out_accuracy: 0.8882 - val_age_out_accuracy: 0.0040
+Epoch 36/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.8057 - gender_out_loss: 0.0666 - age_out_loss: 3.7392 - gender_out_accuracy: 0.9710 - age_out_accuracy: 0.0034 - val_loss: 7.1058 - val_gender_out_loss: 0.4534 - val_age_out_loss: 6.6524 - val_gender_out_accuracy: 0.8868 - val_age_out_accuracy: 0.0034
+Epoch 37/50
+593/593 [==============================] - 12s 21ms/step - loss: 3.7632 - gender_out_loss: 0.0618 - age_out_loss: 3.7015 - gender_out_accuracy: 0.9747 - age_out_accuracy: 0.0033 - val_loss: 7.0216 - val_gender_out_loss: 0.4884 - val_age_out_loss: 6.5332 - val_gender_out_accuracy: 0.8899 - val_age_out_accuracy: 0.0038
+Epoch 38/50
+593/593 [==============================] - 13s 22ms/step - loss: 3.7936 - gender_out_loss: 0.0582 - age_out_loss: 3.7355 - gender_out_accuracy: 0.9751 - age_out_accuracy: 0.0032 - val_loss: 7.1853 - val_gender_out_loss: 0.4907 - val_age_out_loss: 6.6946 - val_gender_out_accuracy: 0.8910 - val_age_out_accuracy: 0.0049
+Epoch 39/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.6715 - gender_out_loss: 0.0574 - age_out_loss: 3.6141 - gender_out_accuracy: 0.9760 - age_out_accuracy: 0.0028 - val_loss: 7.2024 - val_gender_out_loss: 0.5435 - val_age_out_loss: 6.6589 - val_gender_out_accuracy: 0.8935 - val_age_out_accuracy: 0.0057
+Epoch 40/50
+593/593 [==============================] - 12s 21ms/step - loss: 3.5829 - gender_out_loss: 0.0526 - age_out_loss: 3.5303 - gender_out_accuracy: 0.9789 - age_out_accuracy: 0.0040 - val_loss: 7.0975 - val_gender_out_loss: 0.4887 - val_age_out_loss: 6.6088 - val_gender_out_accuracy: 0.8906 - val_age_out_accuracy: 0.0036
+Epoch 41/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.6045 - gender_out_loss: 0.0567 - age_out_loss: 3.5477 - gender_out_accuracy: 0.9776 - age_out_accuracy: 0.0032 - val_loss: 7.1223 - val_gender_out_loss: 0.5171 - val_age_out_loss: 6.6053 - val_gender_out_accuracy: 0.8893 - val_age_out_accuracy: 0.0053
+Epoch 42/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.5479 - gender_out_loss: 0.0539 - age_out_loss: 3.4940 - gender_out_accuracy: 0.9772 - age_out_accuracy: 0.0038 - val_loss: 7.1149 - val_gender_out_loss: 0.5236 - val_age_out_loss: 6.5913 - val_gender_out_accuracy: 0.8855 - val_age_out_accuracy: 0.0049
+Epoch 43/50
+593/593 [==============================] - 12s 21ms/step - loss: 3.5141 - gender_out_loss: 0.0528 - age_out_loss: 3.4613 - gender_out_accuracy: 0.9791 - age_out_accuracy: 0.0035 - val_loss: 7.1709 - val_gender_out_loss: 0.5215 - val_age_out_loss: 6.6493 - val_gender_out_accuracy: 0.8825 - val_age_out_accuracy: 0.0049
+Epoch 44/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.4862 - gender_out_loss: 0.0512 - age_out_loss: 3.4350 - gender_out_accuracy: 0.9782 - age_out_accuracy: 0.0045 - val_loss: 7.3552 - val_gender_out_loss: 0.5324 - val_age_out_loss: 6.8228 - val_gender_out_accuracy: 0.8941 - val_age_out_accuracy: 0.0074
+Epoch 45/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.5154 - gender_out_loss: 0.0479 - age_out_loss: 3.4674 - gender_out_accuracy: 0.9794 - age_out_accuracy: 0.0085 - val_loss: 7.1112 - val_gender_out_loss: 0.5380 - val_age_out_loss: 6.5732 - val_gender_out_accuracy: 0.8865 - val_age_out_accuracy: 0.0089
+Epoch 46/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.4273 - gender_out_loss: 0.0477 - age_out_loss: 3.3796 - gender_out_accuracy: 0.9812 - age_out_accuracy: 0.0056 - val_loss: 7.2752 - val_gender_out_loss: 0.6064 - val_age_out_loss: 6.6688 - val_gender_out_accuracy: 0.8925 - val_age_out_accuracy: 0.0059
+Epoch 47/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.4079 - gender_out_loss: 0.0501 - age_out_loss: 3.3578 - gender_out_accuracy: 0.9794 - age_out_accuracy: 0.0059 - val_loss: 7.2233 - val_gender_out_loss: 0.5800 - val_age_out_loss: 6.6433 - val_gender_out_accuracy: 0.8859 - val_age_out_accuracy: 0.0097
+Epoch 48/50
+593/593 [==============================] - 12s 21ms/step - loss: 3.3446 - gender_out_loss: 0.0409 - age_out_loss: 3.3038 - gender_out_accuracy: 0.9823 - age_out_accuracy: 0.0085 - val_loss: 7.1243 - val_gender_out_loss: 0.5732 - val_age_out_loss: 6.5511 - val_gender_out_accuracy: 0.8853 - val_age_out_accuracy: 0.0089
+Epoch 49/50
+593/593 [==============================] - 12s 20ms/step - loss: 3.3819 - gender_out_loss: 0.0461 - age_out_loss: 3.3358 - gender_out_accuracy: 0.9799 - age_out_accuracy: 0.0111 - val_loss: 7.2660 - val_gender_out_loss: 0.6294 - val_age_out_loss: 6.6365 - val_gender_out_accuracy: 0.8912 - val_age_out_accuracy: 0.0080
+Epoch 50/50
+593/593 [==============================] - 12s 21ms/step - loss: 3.3731 - gender_out_loss: 0.0445 - age_out_loss: 3.3286 - gender_out_accuracy: 0.9827 - age_out_accuracy: 0.0114 - val_loss: 7.1208 - val_gender_out_loss: 0.5224 - val_age_out_loss: 6.5984 - val_gender_out_accuracy: 0.8857 - val_age_out_accuracy: 0.0133
